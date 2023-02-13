@@ -1,0 +1,2345 @@
+[
+    {
+    "group": "PATIENT",
+    "records": [
+      {
+        "fields": [
+          "",
+          "80983",
+          "Joe",
+          "Blog",
+          "",
+          "",
+          "",
+          "ABC1234",
+          "12/12/1912",
+          "2",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "2",
+          "",
+          "5",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "STUDY",
+    "records": [
+      {
+        "fields": [
+          "",
+          "80983",
+          "1",
+          "81013",
+          "",
+          "",
+          "",
+          "",
+          "30/11/2020",
+          "1.3.12.2.1107.5.13.2.0.30000020111519210138500000130",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Vascular^Vascular",
+          "",
+          "HFS",
+          "Intra Epsom",
+          "Dr. Brendan Buckley",
+          "",
+          "Teresa Kerr",
+          "Sarah Scheirlinck",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Unknown",
+          "",
+          "3",
+          "30/11/2020 09:28:05.543",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "PI",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "ABC1234",
+          "Joe",
+          "Blog",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "PD",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "Male",
+          "12/12/1912",
+          "63",
+          "Years",
+          "",
+          "185",
+          "81",
+          "1.97",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "ID",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "30/11/2020",
+          "08:29:11",
+          "58",
+          "09:28:00",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "C_ST",
+    "records": []
+  },
+  {
+    "group": "PN",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "21004",
+          "08:29:25",
+          "Euna Go",
+          "Circulator",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "CD",
+    "records": []
+  },
+  {
+    "group": "ADM",
+    "records": []
+  },
+  {
+    "group": "CASE1",
+    "records": []
+  },
+  {
+    "group": "HIST",
+    "records": []
+  },
+  {
+    "group": "ALE",
+    "records": []
+  },
+  {
+    "group": "SHE",
+    "records": []
+  },
+  {
+    "group": "PM",
+    "records": []
+  },
+  {
+    "group": "PR",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:29",
+          "Varicocele Embolisation",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16002",
+          "08:29",
+          "Sonosite Ultrasound",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "EPP",
+    "records": []
+  },
+  {
+    "group": "CA",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:37:29",
+          "5Fr Impulse MPA1 catheter 100cm",
+          "H749163911171",
+          " Expiry Date: 220811 Lot Number: 60253356",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16002",
+          "08:37:33",
+          "5F RADIFOCUS Introducer II 10cm",
+          "RS*B50N10MR5",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "CA1",
+    "records": []
+  },
+  {
+    "group": "ME",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:36",
+          "Fentanyl (µg)",
+          "Intravenous",
+          "50",
+          "Fentanyl 100mcg/2ml",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16002",
+          "08:36",
+          "Midazolam (mg)",
+          "Intravenous",
+          "2",
+          "Midazolam 5mg/5ml",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16003",
+          "08:43",
+          "Midazolam (mg)",
+          "Intravenous",
+          "1",
+          "Midazolam 5mg/5ml",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16004",
+          "08:54",
+          "Fibrovein 3% (ml)",
+          "Intravenous",
+          "2",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16005",
+          "08:55",
+          "Lipiodol (ml)",
+          "Intravenous",
+          "2",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16006",
+          "09:10",
+          "Fentanyl (µg)",
+          "Intravenous",
+          "25",
+          "Fentanyl 100mcg/2ml",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "METOTAL",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:43:18",
+          "Midazolam (mg)",
+          "3",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16002",
+          "09:10:42",
+          "Fentanyl (µg)",
+          "75",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16003",
+          "08:55:05",
+          "Fibrovein 3% (ml)",
+          "2",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16004",
+          "08:55:13",
+          "Lipiodol (ml)",
+          "2",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "AN",
+    "records": []
+  },
+  {
+    "group": "DIACO",
+    "records": []
+  },
+  {
+    "group": "CONT",
+    "records": []
+  },
+  {
+    "group": "CONT1",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "9002",
+          "09:20",
+          "Omnipaque 300",
+          "25",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "CM",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "09:20",
+          "No complications",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "DC",
+    "records": []
+  },
+  {
+    "group": "PPC",
+    "records": []
+  },
+  {
+    "group": "CAV",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "17001",
+          "09:04:48",
+          "Catheter 4Fr GLIDECATH Straight 65cm",
+          "RF*ZM7410GM",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "PACGEN",
+    "records": []
+  },
+  {
+    "group": "PACLED",
+    "records": []
+  },
+  {
+    "group": "PHILDOSE",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "9001",
+          "09:21:18",
+          "87",
+          "14490",
+          "13:52",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "PHLDOSE",
+    "records": []
+  },
+  {
+    "group": "EPC",
+    "records": []
+  },
+  {
+    "group": "OS",
+    "records": []
+  },
+  {
+    "group": "FT",
+    "records": []
+  },
+  {
+    "group": "HT",
+    "records": []
+  },
+  {
+    "group": "AR",
+    "records": []
+  },
+  {
+    "group": "DI",
+    "records": []
+  },
+  {
+    "group": "CC",
+    "records": []
+  },
+  {
+    "group": "ECD",
+    "records": []
+  },
+  {
+    "group": "ECF",
+    "records": []
+  },
+  {
+    "group": "BA",
+    "records": []
+  },
+  {
+    "group": "OP",
+    "records": []
+  },
+  {
+    "group": "FI",
+    "records": []
+  },
+  {
+    "group": "CR",
+    "records": []
+  },
+  {
+    "group": "EPF",
+    "records": []
+  },
+  {
+    "group": "RS",
+    "records": []
+  },
+  {
+    "group": "RE",
+    "records": []
+  },
+  {
+    "group": "RVLEAD",
+    "records": []
+  },
+  {
+    "group": "CSLEAD",
+    "records": []
+  },
+  {
+    "group": "RALEAD",
+    "records": []
+  },
+  {
+    "group": "FINALPAC",
+    "records": []
+  },
+  {
+    "group": "RAPOT",
+    "records": []
+  },
+  {
+    "group": "RVPOT",
+    "records": []
+  },
+  {
+    "group": "CSPOT",
+    "records": []
+  },
+  {
+    "group": "DEFIBTST",
+    "records": []
+  },
+  {
+    "group": "FINALICD",
+    "records": []
+  },
+  {
+    "group": "EP_OP",
+    "records": []
+  },
+  {
+    "group": "EP_FI",
+    "records": []
+  },
+  {
+    "group": "EP_RFA",
+    "records": []
+  },
+  {
+    "group": "EPCD",
+    "records": []
+  },
+  {
+    "group": "EPOD",
+    "records": []
+  },
+  {
+    "group": "EPPT",
+    "records": []
+  },
+  {
+    "group": "EPDA",
+    "records": []
+  },
+  {
+    "group": "EPSY",
+    "records": []
+  },
+  {
+    "group": "EPLV",
+    "records": []
+  },
+  {
+    "group": "EPCM",
+    "records": []
+  },
+  {
+    "group": "EPPS",
+    "records": []
+  },
+  {
+    "group": "EPRP",
+    "records": []
+  },
+  {
+    "group": "EPAN",
+    "records": []
+  },
+  {
+    "group": "EPRE",
+    "records": []
+  },
+  {
+    "group": "EPIN",
+    "records": []
+  },
+  {
+    "group": "EPCV",
+    "records": []
+  },
+  {
+    "group": "EPAT",
+    "records": []
+  },
+  {
+    "group": "EPAR",
+    "records": []
+  },
+  {
+    "group": "EPSF",
+    "records": []
+  },
+  {
+    "group": "EPAC",
+    "records": []
+  },
+  {
+    "group": "EPCC",
+    "records": []
+  },
+  {
+    "group": "EPRC",
+    "records": []
+  },
+  {
+    "group": "RSPETCO2",
+    "records": []
+  },
+  {
+    "group": "CTINTERV",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "17001",
+          "09:20:21",
+          "35",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "_ESTEX2",
+    "records": []
+  },
+  {
+    "group": "_ESTC12",
+    "records": []
+  },
+  {
+    "group": "_ESTC22",
+    "records": []
+  },
+  {
+    "group": "_ESTD12",
+    "records": []
+  },
+  {
+    "group": "_ESTDY2",
+    "records": []
+  },
+  {
+    "group": "INFCONN",
+    "records": []
+  },
+  {
+    "group": "INFSTAT",
+    "records": []
+  },
+  {
+    "group": "INFVS",
+    "records": []
+  },
+  {
+    "group": "ACQNAME",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "SENSIS100206",
+          "DMC_CLIENT",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "E_RECON",
+    "records": []
+  },
+  {
+    "group": "E_RECOFF",
+    "records": []
+  },
+  {
+    "group": "E_SNPSHT",
+    "records": []
+  },
+  {
+    "group": "E_WAVEF",
+    "records": []
+  },
+  {
+    "group": "E_STIMEX",
+    "records": []
+  },
+  {
+    "group": "E_STIMC1",
+    "records": []
+  },
+  {
+    "group": "E_STIMC2",
+    "records": []
+  },
+  {
+    "group": "E_STIMD1",
+    "records": []
+  },
+  {
+    "group": "E_STIMDY",
+    "records": []
+  },
+  {
+    "group": "E_ABLAT1",
+    "records": []
+  },
+  {
+    "group": "E_ABLAT2",
+    "records": []
+  },
+  {
+    "group": "E_ABLAT3",
+    "records": []
+  },
+  {
+    "group": "E_TACHY1",
+    "records": []
+  },
+  {
+    "group": "E_TACHY2",
+    "records": []
+  },
+  {
+    "group": "E_BRADY1",
+    "records": []
+  },
+  {
+    "group": "E_BRADY2",
+    "records": []
+  },
+  {
+    "group": "E_ECG12",
+    "records": []
+  },
+  {
+    "group": "E_INTERV",
+    "records": []
+  },
+  {
+    "group": "T_APLAST",
+    "records": []
+  },
+  {
+    "group": "T_VPLAST",
+    "records": []
+  },
+  {
+    "group": "T_CNTUP",
+    "records": []
+  },
+  {
+    "group": "T_CNTDWN",
+    "records": []
+  },
+  {
+    "group": "V_SIGNS",
+    "records": []
+  },
+  {
+    "group": "REPORT",
+    "records": [
+      {
+        "fields": [
+          "",
+          "9108",
+          "20201130092824_81013_207.doc",
+          "30/11/2020 09:28:24.000",
+          "STUDY",
+          "80983",
+          "81013",
+          "207",
+          "",
+          "Y",
+          "",
+          "",
+          "",
+          "0",
+          "0",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "EXPPATH",
+    "records": []
+  },
+  {
+    "group": "HL7DATA",
+    "records": []
+  },
+  {
+    "group": "ABLGRIMG",
+    "records": []
+  },
+  {
+    "group": "MPSYSIMG",
+    "records": []
+  },
+  {
+    "group": "STUDYPIC",
+    "records": []
+  },
+  {
+    "group": "STUDYWF",
+    "records": []
+  },
+  {
+    "group": "PE",
+    "records": []
+  },
+  {
+    "group": "PH",
+    "records": []
+  },
+  {
+    "group": "UN",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "g/l",
+          "J",
+          "dynes*s/cm5",
+          "mmHg",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "CN",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "1",
+          "30/11/2020",
+          "08:29:15",
+          "",
+          "",
+          "",
+          "Rest",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "IV",
+    "records": []
+  },
+  {
+    "group": "PV",
+    "records": []
+  },
+  {
+    "group": "SA",
+    "records": []
+  },
+  {
+    "group": "VD",
+    "records": []
+  },
+  {
+    "group": "VG",
+    "records": []
+  },
+  {
+    "group": "SG",
+    "records": []
+  },
+  {
+    "group": "CO",
+    "records": []
+  },
+  {
+    "group": "CF",
+    "records": []
+  },
+  {
+    "group": "CP",
+    "records": []
+  },
+  {
+    "group": "SH",
+    "records": []
+  },
+  {
+    "group": "GM",
+    "records": []
+  },
+  {
+    "group": "SM",
+    "records": []
+  },
+  {
+    "group": "AM",
+    "records": []
+  },
+  {
+    "group": "GS",
+    "records": []
+  },
+  {
+    "group": "SS",
+    "records": []
+  },
+  {
+    "group": "VS",
+    "records": []
+  },
+  {
+    "group": "TS",
+    "records": []
+  },
+  {
+    "group": "LCI",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "08:29:15",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Rest",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "LCF",
+    "records": []
+  },
+  {
+    "group": "LCO",
+    "records": []
+  },
+  {
+    "group": "LSA",
+    "records": []
+  },
+  {
+    "group": "LPV",
+    "records": []
+  },
+  {
+    "group": "LP1",
+    "records": []
+  },
+  {
+    "group": "LP2",
+    "records": []
+  },
+  {
+    "group": "LP3",
+    "records": []
+  },
+  {
+    "group": "LP4",
+    "records": []
+  },
+  {
+    "group": "LP5",
+    "records": []
+  },
+  {
+    "group": "LP6",
+    "records": []
+  },
+  {
+    "group": "LPI",
+    "records": []
+  },
+  {
+    "group": "LPA",
+    "records": []
+  },
+  {
+    "group": "LSY",
+    "records": []
+  },
+  {
+    "group": "XRAY",
+    "records": []
+  },
+  {
+    "group": "XRAYA",
+    "records": []
+  },
+  {
+    "group": "XRAYSUM",
+    "records": []
+  },
+  {
+    "group": "XRAYASUM",
+    "records": []
+  },
+  {
+    "group": "XRAYBSUM",
+    "records": []
+  },
+  {
+    "group": "SPO2",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:35",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16002",
+          "08:39",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16003",
+          "08:55",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16004",
+          "09:18",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "NIBP",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:35",
+          "",
+          "136",
+          "81",
+          "99",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16002",
+          "08:39",
+          "",
+          "121",
+          "79",
+          "93",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16003",
+          "08:55",
+          "",
+          "108",
+          "71",
+          "83",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16004",
+          "09:18",
+          "",
+          "112",
+          "68",
+          "83",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "RESP",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:35",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16002",
+          "08:39",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16003",
+          "08:55",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16004",
+          "09:18",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "ALDRSCRE",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:35",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16002",
+          "08:39",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16003",
+          "08:55",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16004",
+          "09:18",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "REC",
+    "records": []
+  },
+  {
+    "group": "LPM",
+    "records": []
+  },
+  {
+    "group": "Q_AI",
+    "records": []
+  },
+  {
+    "group": "Q_IF",
+    "records": []
+  },
+  {
+    "group": "H_TAIL",
+    "records": []
+  },
+  {
+    "group": "HEX",
+    "records": []
+  },
+  {
+    "group": "HET",
+    "records": []
+  },
+  {
+    "group": "COX",
+    "records": []
+  },
+  {
+    "group": "CHPD",
+    "records": []
+  },
+  {
+    "group": "C_TAIL",
+    "records": []
+  },
+  {
+    "group": "C_COX",
+    "records": []
+  },
+  {
+    "group": "C_HEX",
+    "records": []
+  },
+  {
+    "group": "C_HET",
+    "records": []
+  },
+  {
+    "group": "C_DE",
+    "records": []
+  },
+  {
+    "group": "C_LE",
+    "records": []
+  },
+  {
+    "group": "C_CE",
+    "records": []
+  },
+  {
+    "group": "C_GE",
+    "records": []
+  },
+  {
+    "group": "_E_MARKE",
+    "records": []
+  },
+  {
+    "group": "_IBP",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:35",
+          "200",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16002",
+          "08:39",
+          "200",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16003",
+          "08:55",
+          "200",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16004",
+          "09:18",
+          "200",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "_VSCMN",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:35",
+          "Vital Signs",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16002",
+          "08:39",
+          "Vital Signs",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16003",
+          "08:55",
+          "Vital Signs",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16004",
+          "09:18",
+          "Vital Signs",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "_EN2STU",
+    "records": []
+  },
+  {
+    "group": "_ITEMUSG",
+    "records": []
+  },
+  {
+    "group": "_VMMUSG",
+    "records": []
+  },
+  {
+    "group": "_VPAINSC",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:35:38",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16002",
+          "08:39:47",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16003",
+          "08:55:26",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16004",
+          "09:18:43",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "_FFR",
+    "records": []
+  },
+  {
+    "group": "_M_FFR",
+    "records": []
+  },
+  {
+    "group": "_DIAGSTR",
+    "records": []
+  },
+  {
+    "group": "_CORONRY",
+    "records": []
+  },
+  {
+    "group": "_GRAFDES",
+    "records": []
+  },
+  {
+    "group": "_GFTARGT",
+    "records": []
+  },
+  {
+    "group": "_INTRVEN",
+    "records": []
+  },
+  {
+    "group": "_LESION",
+    "records": []
+  },
+  {
+    "group": "_ABNORM",
+    "records": []
+  },
+  {
+    "group": "_VESLINF",
+    "records": []
+  },
+  {
+    "group": "_CPTEMP",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "1",
+          "",
+          "THERMO",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "_LPVTEMP",
+    "records": []
+  },
+  {
+    "group": "_SVI",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "1",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "_SAI",
+    "records": []
+  },
+  {
+    "group": "_CLWIDTH",
+    "records": []
+  },
+  {
+    "group": "CASETIME",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:33:20",
+          "Patient in room",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16003",
+          "08:44:30",
+          "Needle to skin",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16002",
+          "08:43:39",
+          "Time out performed",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16005",
+          "09:27:57",
+          "Patient out of room",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16004",
+          "09:20:20",
+          "Procedure Complete",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "_EVTPRD",
+    "records": []
+  },
+  {
+    "group": "_MAINSUB",
+    "records": []
+  },
+  {
+    "group": "_PCHILD",
+    "records": []
+  },
+  {
+    "group": "_EXCLUDD",
+    "records": []
+  },
+  {
+    "group": "_CN",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "1",
+          "08:29:15",
+          "08:29:15",
+          "Rest",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "THERMO",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "_CNCHD",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:29:15",
+          "1",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "_PRESSUR",
+    "records": []
+  },
+  {
+    "group": "_RECON",
+    "records": []
+  },
+  {
+    "group": "_RECOFF",
+    "records": []
+  },
+  {
+    "group": "_SNPSHOT",
+    "records": []
+  },
+  {
+    "group": "_STIMEX",
+    "records": []
+  },
+  {
+    "group": "_STIMCON",
+    "records": []
+  },
+  {
+    "group": "_STIMCOF",
+    "records": []
+  },
+  {
+    "group": "_ABLATON",
+    "records": []
+  },
+  {
+    "group": "_ABLATOF",
+    "records": []
+  },
+  {
+    "group": "_TACHYON",
+    "records": []
+  },
+  {
+    "group": "_TACHYOF",
+    "records": []
+  },
+  {
+    "group": "_BRADYON",
+    "records": []
+  },
+  {
+    "group": "_BRADYOF",
+    "records": []
+  },
+  {
+    "group": "_ECG12LD",
+    "records": []
+  },
+  {
+    "group": "_INTERVL",
+    "records": []
+  },
+  {
+    "group": "_TXTNOTE",
+    "records": []
+  },
+  {
+    "group": "_PRNTOUT",
+    "records": []
+  },
+  {
+    "group": "_TEMPLAT",
+    "records": []
+  },
+  {
+    "group": "_WAVEFRM",
+    "records": []
+  },
+  {
+    "group": "_HB",
+    "records": []
+  },
+  {
+    "group": "_O2CONS",
+    "records": []
+  },
+  {
+    "group": "_O2SAT",
+    "records": []
+  },
+  {
+    "group": "_O2SATAV",
+    "records": []
+  },
+  {
+    "group": "_EVTCO",
+    "records": []
+  },
+  {
+    "group": "_THERMO",
+    "records": []
+  },
+  {
+    "group": "_DYE",
+    "records": []
+  },
+  {
+    "group": "_ANGIO",
+    "records": []
+  },
+  {
+    "group": "_THERAVG",
+    "records": []
+  },
+  {
+    "group": "_DYEAVG",
+    "records": []
+  },
+  {
+    "group": "_ANGIAVG",
+    "records": []
+  },
+  {
+    "group": "_FICK",
+    "records": []
+  },
+  {
+    "group": "_VLVGRAD",
+    "records": []
+  },
+  {
+    "group": "_VLVGDRS",
+    "records": []
+  },
+  {
+    "group": "_SPLGRAD",
+    "records": []
+  },
+  {
+    "group": "_SPLGDRS",
+    "records": []
+  },
+  {
+    "group": "_PRESSRS",
+    "records": []
+  },
+  {
+    "group": "_XRAYAB",
+    "records": []
+  },
+  {
+    "group": "_XRAYSUM",
+    "records": []
+  },
+  {
+    "group": "_DERDATA",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:29:16",
+          "1",
+          "1.966415",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "_PRESCAL",
+    "records": []
+  },
+  {
+    "group": "_XRAYIMG",
+    "records": []
+  },
+  {
+    "group": "_STARTAT",
+    "records": []
+  },
+  {
+    "group": "_STOPAT",
+    "records": []
+  },
+  {
+    "group": "_STARTVT",
+    "records": []
+  },
+  {
+    "group": "_STOPVT",
+    "records": []
+  },
+  {
+    "group": "_STARCUT",
+    "records": []
+  },
+  {
+    "group": "_STOPCUT",
+    "records": []
+  },
+  {
+    "group": "_STARCDT",
+    "records": []
+  },
+  {
+    "group": "_STOPCDT",
+    "records": []
+  },
+  {
+    "group": "_VSIGNS",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:35",
+          "08:35",
+          "136",
+          "81",
+          "99",
+          "",
+          "",
+          "",
+          "",
+          "200",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "0",
+          "",
+          "1",
+          "0",
+          "0",
+          "0",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "Vital Signs",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16002",
+          "08:39",
+          "08:39",
+          "121",
+          "79",
+          "93",
+          "",
+          "",
+          "",
+          "",
+          "200",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "0",
+          "",
+          "1",
+          "0",
+          "0",
+          "0",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "Vital Signs",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16003",
+          "08:55",
+          "08:55",
+          "108",
+          "71",
+          "83",
+          "",
+          "",
+          "",
+          "",
+          "200",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "0",
+          "",
+          "1",
+          "0",
+          "0",
+          "0",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "Vital Signs",
+          "",
+          ""
+        ]
+      },
+      {
+        "fields": [
+          "",
+          "81013",
+          "16004",
+          "09:18",
+          "09:18",
+          "112",
+          "68",
+          "83",
+          "",
+          "",
+          "",
+          "",
+          "200",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "0",
+          "",
+          "1",
+          "0",
+          "0",
+          "0",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "Vital Signs",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "_STIMDON",
+    "records": []
+  },
+  {
+    "group": "_STIMDOF",
+    "records": []
+  },
+  {
+    "group": "_ABLASUM",
+    "records": []
+  },
+  {
+    "group": "_HMAPIMG",
+    "records": []
+  },
+  {
+    "group": "_VPBHPLE",
+    "records": []
+  },
+  {
+    "group": "_ESSTIM",
+    "records": []
+  },
+  {
+    "group": "_CSTIMON",
+    "records": []
+  },
+  {
+    "group": "_CSTIMOF",
+    "records": []
+  },
+  {
+    "group": "_DSTIMON",
+    "records": []
+  },
+  {
+    "group": "_DSTIMOF",
+    "records": []
+  },
+  {
+    "group": "_ABGRAPH",
+    "records": []
+  },
+  {
+    "group": "_MARKEVT",
+    "records": []
+  },
+  {
+    "group": "_LPRTOUT",
+    "records": []
+  },
+  {
+    "group": "_RPRTOUT",
+    "records": []
+  },
+  {
+    "group": "_SPRTOUT",
+    "records": []
+  },
+  {
+    "group": "_VSALARM",
+    "records": []
+  },
+  {
+    "group": "_VSASTNG",
+    "records": [
+      {
+        "fields": [
+          "",
+          "81013",
+          "16001",
+          "08:29:16",
+          "Active/Adult",
+          "On:On:45:120",
+          "Off",
+          "Off",
+          "Off",
+          "Off",
+          "Off",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "group": "_FFR1",
+    "records": []
+  },
+  {
+    "group": "_M_FFR1",
+    "records": []
+  },
+  {
+    "group": "_SAINDEX",
+    "records": []
+  },
+  {
+    "group": "_EXPWFD",
+    "records": []
+  },
+  {
+    "group": "_MPNGPNT",
+    "records": []
+  }
+]
